@@ -2,7 +2,7 @@
 language: node_js
 node_js:
   - "13"
-  - "12"
+
 # S: Build Lifecycle
 # 安装依赖包
 install:
